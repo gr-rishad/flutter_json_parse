@@ -12,5 +12,5 @@
 # Json Structure #3: Simple Nested Structures
 ![structure 3](https://user-images.githubusercontent.com/33056647/99250096-5aff7180-2835-11eb-81dd-067199ec2348.PNG)
 
-#Json Structure #4: Nested Structure with Lists
+# Json Structure #4: Nested Structure with Lists
 ![structure 4](https://user-images.githubusercontent.com/33056647/99250190-7c605d80-2835-11eb-8781-a7fd3390394f.PNG)
