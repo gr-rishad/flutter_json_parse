@@ -1,14 +1,17 @@
+
+
+
 {
     "id": 1,
     "name": "Product Name",
     "images": [
         {
-            "id": 11,
-            "imageName": "xCh-rhy"
+            "id": 1,
+            "imageName": "image 1"
         },
         {
-            "id": 31,
-            "imageName": "fjs-eun"
+            "id": 2,
+            "imageName": "image 2"
         }
     ]
 }
