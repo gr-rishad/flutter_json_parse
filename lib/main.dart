@@ -1,16 +1,19 @@
 import 'package:flutter/material.dart';
+import 'package:parse_json/complex_nested_structure/page_service.dart';
 import 'package:parse_json/service/address_service.dart';
+import 'package:parse_json/service/photo_service.dart';
 import 'package:parse_json/service/product_service.dart';
 import 'package:parse_json/service/shape_service.dart';
 import 'package:parse_json/service/student_service.dart';
-import '';
 
 void main() {
   runApp(MyApp());
   //loadStudent();
   // loadAddress();
   //loadShape();
-  loadProduct();
+  //loadProduct();
+  // loadPhotos();
+  loadPage();
 }
 
 class MyApp extends StatelessWidget {
